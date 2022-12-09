@@ -12,3 +12,6 @@ variable "region" {
 
 variable "fingerprint" {
 }
+
+variable "private_key" {
+}
