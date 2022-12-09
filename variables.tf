@@ -9,3 +9,6 @@ variable "compartment_ocid" {
 
 variable "region" {
 }
+
+variable "fingerprint" {
+}
