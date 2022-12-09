@@ -2,7 +2,6 @@ variable "tenancy_ocid" {
 }
 
 variable "user_ocid" {
-  default = ""
 }
 
 variable "fingerprint" {
